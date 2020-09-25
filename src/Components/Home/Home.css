@@ -1,0 +1,13 @@
+.header {
+  color: white;
+  padding: 1rem;
+  background: #222222 !important;
+}
+
+.icon {
+  background-color: white;
+  color: black;
+  position: absolute;
+  right: 20px;
+  top: 10px;
+}
